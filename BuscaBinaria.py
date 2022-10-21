@@ -1,8 +1,3 @@
-'''
-Pedro Henrique Muniz Araujo
-RA: G286JH0
-Turma: R 
-'''
 #Verifica se o elemento está na lista utilizando a busca binária
 def buscaBinaria(lista, e): 
     x = 0 
